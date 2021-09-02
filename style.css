@@ -7,7 +7,7 @@ body, html {
 .hero-image1 {
   /* This is your "hero image" or "wide image." You will need to change hero.jpg to match your asset*/
 
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("loretto.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("loretto.JPG");
   height: 100%;
   background-attachment: fixed;
   background-position: center;
